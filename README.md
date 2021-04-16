@@ -13,7 +13,8 @@ https://www.ansible.com/
 
 ## Cloud Providers                                                              
 
-[![name](link to image on GH)](link to your URL)
+
+[![AWS](https://github.com/Sarvabhowma1995/Sarvabhowma1995/blob/main/aws1.png)](https://aws.amazon.com/)
 
 
 ## Monitoring
