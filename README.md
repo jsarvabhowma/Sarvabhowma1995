@@ -1,8 +1,8 @@
 ### Hi 👋                    
 
-I am [Sarva Bhowma Jarubula](https://www.linkedin.com/in/sarva-bhowma-jarubula/), a DevOps Consultant from India with 5 years of experience focusing on Orchestration, Continous Integration, Continous Deployment, Continous Monitoring and process development which includes code packaging , deployment/release and monitoring.
+I am [Sarva Bhowma Jarubula](https://www.linkedin.com/in/sarva-bhowma-jarubula/), a DevOps Architect with 8 years of experience focusing on Cloud, Orchestration, Continous Integration, Continous Deployment, Continous Monitoring and process development which includes code packaging, deployment/release and monitoring.
 
-I mostly work with Docker, Kubernetes, CI/CD Setup, Cloud Services, Developing Automation & SRE tools. 🚀
+I mostly work with AWS, Azure, Docker, Kubernetes, CI/CD Setup, Cloud Services, Developing Automation & SRE tools. 🚀
 
 
 <p float="left">
