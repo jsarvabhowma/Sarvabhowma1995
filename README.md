@@ -30,6 +30,9 @@ I mostly work with AWS, Azure, Docker, Kubernetes, CI/CD Setup, Cloud Services, 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://github.com/Sarvabhowma1995/Sarvabhowma1995/blob/main/assets/aws.gif"  height="75" />
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://github.com/Sarvabhowma1995/Sarvabhowma1995/blob/main/assets/azure.gif"  height="75" />
+  </a>
  </p>
   
 ### Monitoring
